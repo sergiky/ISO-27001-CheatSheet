@@ -13,7 +13,7 @@ We are working at RandomCorp
 - You certify against 27001 only - ISO 27002 certification does not exist
 
 
-Basic terms:
+## Basic terms:
 
 - **CIA**: The three bigger terms/pillar of cyber security
   - **Confidentiality**:
