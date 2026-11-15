@@ -24,8 +24,9 @@ We are working at RandomCorp
   - **risk** is where they meet
 - An **incident** is **events** with a significant probability of compromising operations - not every event qualifies.
  
-Clauses 4-10 and Annex A
+## Clauses 4-10 and Annex A
 - Unnumbered introduction, then clauses 1-3 (scope, vocabulary), then clauses 4-10, then Annex A
 - Clauses 4-10 are auditable and cannot be excluded - scope and control applicability are what your decided
 - Annex A: 93 controls in 4 themes - Organizational 37, People 8, Physical 14, Technological 34
-- 
+
+
