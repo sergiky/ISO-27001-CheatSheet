@@ -40,3 +40,8 @@ We are working at RandomCorp
 - SWOT and PESTLE are convention, not requirements - the clause cares that you determined the issues
 - Documenting context is not required; determining monitoring and reviewing it is
 
+Interested parties and their requirements
+- An interested party can affect the ISMS or be affected by it - no commercial relationship needed
+- The clause wants their requirements and which you'll address; satisfying everyone is not the goal
+- Where a contract is stricter than the law, the contact is the number you must hit
+
