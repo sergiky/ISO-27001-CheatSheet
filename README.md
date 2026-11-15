@@ -38,4 +38,5 @@ We are working at RandomCorp
 # Context of the organization
 - Internal issues are inside your boundary and changeable; external issues act on you and you respond
 - SWOT and PESTLE are convention, not requirements - the clause cares that you determined the issues
+- Documenting context is not required; determining monitoring and reviewing it is
 
