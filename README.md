@@ -30,3 +30,12 @@ We are working at RandomCorp
 - Annex A: 93 controls in 4 themes - Organizational 37, People 8, Physical 14, Technological 34
 
 
+## PDCA
+- Plan = clauses 4-7, Do = clause 8, Check = clause 9, Act = clause 10
+- Check is the phase organizations skip because it produces bad news - finding your own NCs is success
+- RandomCorp took 12 months, and the month-one scope decision shaped everything after it
+
+# Context of the organization
+- Internal issues are inside your boundary and changeable; external issues act on you and you respond
+- SWOT and PESTLE are convention, not requirements - the clause cares that you determined the issues
+
