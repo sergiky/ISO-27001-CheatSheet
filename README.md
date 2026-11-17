@@ -45,3 +45,9 @@ Interested parties and their requirements
 - The clause wants their requirements and which you'll address; satisfying everyone is not the goal
 - Where a contract is stricter than the law, the contact is the number you must hit
 
+# Scope statement line by line
+- A good scope statement is short, specific and boring - named services, not 'our information systems'
+- Every exclusion carries a justification, and every justification is a claim an auditor can verify
+- Scope must stay consistent with the risk assessment, SoA, asset inventory and policy
+
+
