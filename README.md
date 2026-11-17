@@ -50,4 +50,9 @@ Interested parties and their requirements
 - Every exclusion carries a justification, and every justification is a claim an auditor can verify
 - Scope must stay consistent with the risk assessment, SoA, asset inventory and policy
 
+# Leadership
+- Clause 5.1 places duties on top management personally - several cannot be delegated to a security function
+- Objectives must be compatible with strategic direction; ISMS requirements integrated into a real process
+- The auditor's test: ask the CEO a question and see whether they answer or look at the CISO
 
+  
