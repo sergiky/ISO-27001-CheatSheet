@@ -55,4 +55,8 @@ Interested parties and their requirements
 - Objectives must be compatible with strategic direction; ISMS requirements integrated into a real process
 - The auditor's test: ask the CEO a question and see whether they answer or look at the CISO
 
-  
+## The information security policy 5.2
+- The policy is not a staff rulebook it's a short, high-level statement of intent that top management own
+- Two commitments must be explicit: satisfy applicable requirements, and continually improve the ISMS
+- Documented, communicated internally, available to interested parties as appropriate - not the same as published.
+ 
