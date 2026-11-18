@@ -60,3 +60,8 @@ Interested parties and their requirements
 - Two commitments must be explicit: satisfy applicable requirements, and continually improve the ISMS
 - Documented, communicated internally, available to interested parties as appropriate - not the same as published.
  
+## Roles, responsibilities and authorities
+- Two responsibilities are named explicitly: ensuring conformance, and reporting performance to top management
+- Clause 5.3 requires no document information - a RACI is convention, not obligation
+- Controls belong with whoever runs the thing being controlled - that's integration in practice
+
