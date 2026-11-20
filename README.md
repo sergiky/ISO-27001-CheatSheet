@@ -65,3 +65,12 @@ Interested parties and their requirements
 - Clause 5.3 requires no document information - a RACI is convention, not obligation
 - Controls belong with whoever runs the thing being controlled - that's integration in practice
 
+# Planning and Risk
+- Define criteria first - setting acceptance criteria after seeing results is how everything comes out acceptable
+- The 2022 standards does not mandate an asset-based method; it demands consistent, valid, comparable results
+- A risk owner need accountability and authority - if they can't approve the fix, they're not the owner
+
+## Risk assessment
+- A register with no spread of scores carries no information - the distribution is read first
+- Acceptance threshold need real consequences attached, or they're just numbers in a spreadsheet
+- Contractual and regulatory requirements can force treatment below your threshold
