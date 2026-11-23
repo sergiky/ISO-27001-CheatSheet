@@ -74,3 +74,8 @@ Interested parties and their requirements
 - A register with no spread of scores carries no information - the distribution is read first
 - Acceptance threshold need real consequences attached, or they're just numbers in a spreadsheet
 - Contractual and regulatory requirements can force treatment below your threshold
+
+## Risk treatment and the Statement of Applicability
+- Four options: modify, avoid, share, retain - you can share financial consequence, never accountability.
+- Two approvals required: the treatment plan, and separately the residual risk. Both by risk owned
+- Annex A is a completeness check against controls you already determined - and you may add controls it lacks
