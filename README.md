@@ -84,4 +84,8 @@ Interested parties and their requirements
  - Objectives must be measurable, monitored, communicated and updated - prefer outcomes over activities
  - Pair an easy objective with a hard one, so completion is never mistaken for effectiveness
  - Clause 6.3 is new in 2022: when the ISMS needs to change, change it in a planner manner
-  
+
+# Support - Clause 7 - Resources, competence and awareness
+- Determining resources and not providing them is a nonconformity, not a plan
+- Competence must be demonstrable and retained as evidence - training is one option among several
+- Competence applies to those whose work affects security performance; awareness applies to everyone
