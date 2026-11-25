@@ -79,3 +79,9 @@ Interested parties and their requirements
 - Four options: modify, avoid, share, retain - you can share financial consequence, never accountability.
 - Two approvals required: the treatment plan, and separately the residual risk. Both by risk owned
 - Annex A is a completeness check against controls you already determined - and you may add controls it lacks
+
+## Objectives and planning of changes (6.2, 6.3)
+ - Objectives must be measurable, monitored, communicated and updated - prefer outcomes over activities
+ - Pair an easy objective with a hard one, so completion is never mistaken for effectiveness
+ - Clause 6.3 is new in 2022: when the ISMS needs to change, change it in a planner manner
+  
